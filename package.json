@@ -1,0 +1,15 @@
+{
+  "name": "homebridge-cams",
+  "version": "0.1.0",
+  "description": "Camera plugin for HomeBridge using FFmpeg",
+  "keywords": [
+    "homebridge-plugin"
+  ],
+  "engines": {
+    "node": ">=10.0.0",
+    "homebridge": ">=0.4.50"
+  },
+  "dependencies": {
+    "ip": "^1.1.5"
+  }
+}
